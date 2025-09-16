@@ -591,12 +591,12 @@ body {
     }
 
     /* Background Images */
-    .project1 { background: url('img/portfolio.png.jpg') center/cover; }
-.project2 { background: url('img/ecommerce.png.jpg') center/cover; }
-.project3 { background: url('img/mobile.png.jpg') center/cover; }
-.project4 { background: url('img/blog.png.jpg') center/cover; }
-.project5 { background: url('img/marketing.png.jpg') center/cover; }
-.project6 { background: url('img/chat.png.jpg') center/cover; }
+    .project1 { background: url('portfolio.png.jpg') center/cover; }
+.project2 { background: url('ecommerce.png.jpg') center/cover; }
+.project3 { background: url('mobile.png.jpg') center/cover; }
+.project4 { background: url('blog.png.jpg') center/cover; }
+.project5 { background: url('marketing.png.jpg') center/cover; }
+.project6 { background: url('chat.png.jpg') center/cover; }
 
 .project-box::before {
   content: "";
@@ -1017,4 +1017,5 @@ footer{
 img {
   max-width: 100%;
   height: auto;
+
 }
